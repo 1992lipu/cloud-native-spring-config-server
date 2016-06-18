@@ -6,6 +6,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/habuma/cloud-native-spring-service-registry
+          uri: https://github.com/habuma/cloud-native-spring-config-server
           search-paths:
             - config
